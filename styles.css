@@ -1,0 +1,57 @@
+body {
+  text-align: center;
+  background-color: #adebad;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #004d00;
+  font-family: 'Lobster', cursive;
+  text-shadow: 3px 0 #669999;
+}
+
+footer {
+  color: #996633;
+  font-family: 'Pacifico', cursive;
+}
+.s {
+  background-image: url("images/Cat.jpg");
+}
+
+.t {
+  background-image: url("images/Tiger.jpg");
+}
+
+.l {
+  background-image: url("images/Lion.jpg");
+}
+
+.c {
+  background-image: url("images/Cheetah.jpg");
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #669999;
+  opacity: 0.5;
+}
+
+.cat {
+  outline: none;
+  border: 10px solid #ffffe6;
+  font-size: 5rem;
+  font-family: 'Lobster', cursive;
+  font-weight: 900;
+  color: #ccffcc;
+  text-shadow: 3px 0 #669999;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 30px;
+  background-color: white;
+}
+
+.set {
+  margin: 100px 0;
+}
